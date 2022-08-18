@@ -91,7 +91,6 @@ void insert_tail(char na[], char u[], char brn[], int s, long long p) {
   temp->next = NULL;
   tail = temp;
   count++;
-  // temp = NULL;
 }
 void delete_head() {
   temp = head;

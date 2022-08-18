@@ -38,12 +38,3 @@ int main(void) {
     printf("The resultant string is: %s\n", ANS);
   }
 }
-
-/*
- *  compiling options
- *  gcc -std=c99 -o str 01-string.str -w
- *
- *  bcoz gets is depricated from C99 and removed in C11 -w tells not to
- *  output any errors
- *
- */

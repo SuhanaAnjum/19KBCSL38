@@ -51,7 +51,3 @@ int main(void) {
 
   return 0;
 }
-
-/*
- had to link the math library by giving -lm flag
-*/
